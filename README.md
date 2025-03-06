@@ -1,1 +1,1 @@
-check demo homedge.netlify.app
+check demo (https://homedge.netlify.app/)
